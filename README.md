@@ -1,4 +1,4 @@
-##javascript에서 웹 에디터 사용하기
+# javascript에서 웹 에디터 사용하기
 
 TinyMCE https://www.tiny.cloud/
 
