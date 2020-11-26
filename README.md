@@ -1,4 +1,4 @@
-# javascript에서 웹 에디터 사용하기
+# javascript에서 웹 에디터 사용하기(작성중)
 
 - 사용한 라이선스 : TinyMCE https://www.tiny.cloud/
 
