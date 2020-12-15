@@ -11,9 +11,12 @@
 https://www.tiny.cloud/my-account/dashboard/
 
 2. head 안에 해당 키 입력
+```
 <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+```
 
 3. tinyMCE 초기화
+```
 <script>
     tinymce.init({
 	    selector: '#mytextarea',
@@ -25,5 +28,6 @@ https://www.tiny.cloud/my-account/dashboard/
 	    toolbar_mode: 'sliding',
 	    automatic_uploads: true,
 		height: 500
-	});    
-    </script>
+	});   
+</script>
+```
